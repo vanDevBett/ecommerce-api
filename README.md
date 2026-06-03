@@ -30,7 +30,7 @@ REST API for e-commerce management with JWT authentication and role-based access
 ### Run the project
 
 ```bash
-git clone git@github.com:TU-USUARIO/ecommerce-api.git
+git clone git@github.com:vanDevBett/ecommerce-api.git
 cd ecommerce-api
 cp .env.example .env
 docker compose up --build
