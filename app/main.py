@@ -24,3 +24,8 @@ app.include_router(orders_router, prefix="/orders", tags=["orders"])
 @app.get("/")
 def root():
     return {"message": "E-commerce API is running"}
+
+
+@app.get("/health")
+def health():
+    return {"status": "ok"}
