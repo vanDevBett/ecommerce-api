@@ -2,6 +2,12 @@
 
 REST API for e-commerce management with JWT authentication and role-based access control.
 
+## Live Demo
+
+API available at: https://ecommerce-api-production-97a7.up.railway.app
+
+Interactive documentation: https://ecommerce-api-production-97a7.up.railway.app/docs
+
 ## Tech Stack
 
 - **FastAPI** — Python web framework
