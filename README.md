@@ -2,6 +2,14 @@
 
 REST API for e-commerce management with JWT authentication and role-based access control.
 
+## Live Demo
+
+API: https://ecommerce-c9m75lwwn-vandevbetts-projects.vercel.app
+
+Docs: https://ecommerce-c9m75lwwn-vandevbetts-projects.vercel.app/docs
+
+> **Note:** First request may take a few seconds to respond.
+
 ## Tech Stack
 
 - **FastAPI** — Python web framework
